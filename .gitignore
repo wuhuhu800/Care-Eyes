@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# 构建产物
+build/
+.build/
+*.o
+*.dSYM
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# 打包结果
+*.app
+*.icns
+*.iconset/
